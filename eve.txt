@@ -1,6 +1,3 @@
-나는 이브에요!
-
-what is going on here
-why???
-Done?
-eve
+version https://git-lfs.github.com/spec/v1
+oid sha256:710ccfd6da8d0c1898185bf7b4dafc5e26bd118ce2aa91bc97925b061208cdde
+size 61
